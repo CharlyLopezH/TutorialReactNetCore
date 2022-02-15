@@ -1,0 +1,234 @@
+﻿++Solución "PeliculasAPI" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:PeliculasAPI.sln
+++PeliculasAPI
+i:{00000000-0000-0000-0000-000000000000}:PeliculasAPI
+++Connected Services 
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>635
+++Dependencias
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>634
+++Properties
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\properties\
+++wwwroot
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\
+++ApiBehavior
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\apibehavior\
+++Controllers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\controllers\
+++ActoresController.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\controllers\actorescontroller.cs
+++CinesController.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\controllers\cinescontroller.cs
+++CuentasController.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\controllers\cuentascontroller.cs
+++GenerosController.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\controllers\generoscontroller.cs
+++PeliculasController.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\controllers\peliculascontroller.cs
+++DTOs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\
+++ActorCreacionDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\actorcreaciondto.cs
+++ActorDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\actordto.cs
+++ActorPeliculaCreacionDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\actorpeliculacreaciondto.cs
+++CineCreacionDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\cinecreaciondto.cs
+++CineDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\cinedto.cs
+++CredencialesUsuario.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\credencialesusuario.cs
+++GeneroCreacionDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\generocreaciondto.cs
+++GeneroDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\generodto.cs
+++LandingPageDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\landingpagedto.cs
+++PaginacionDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\paginaciondto.cs
+++PeliculaActorDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\peliculaactordto.cs
+++PeliculaCreacionDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\peliculacreaciondto.cs
+++PeliculaDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\peliculadto.cs
+++PeliculasFiltrarDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\peliculasfiltrardto.cs
+++PeliculasPostGetDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\peliculaspostgetdto.cs
+++PeliculasPutGetDTO.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\peliculasputgetdto.cs
+++RespuestaAutenticacion.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\dtos\respuestaautenticacion.cs
+++Entidades
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\
+++Filtros
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\filtros\
+++FiltroDeExcepcion.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\filtros\filtrodeexcepcion.cs
+++ParsearBadRequests.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\filtros\parsearbadrequests.cs
+++Migrations
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\
+++20220124202531_Cines.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\20220124202531_cines.cs
+++20220131163359_Peliculas.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\20220131163359_peliculas.cs
+++20220209183929_SistemaDeUsuarios.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\20220209183929_sistemadeusuarios.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\applicationdbcontextmodelsnapshot.cs
+++Utilidades
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\
+++AlmacenadorArchivosLocal.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\almacenadorarchivoslocal.cs
+++AlmacenadorAzureStorage.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\almacenadorazurestorage.cs
+++AutoMapperProfiles.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\automapperprofiles.cs
+++HttpContextExtensions.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\httpcontextextensions.cs
+++IAlmacenadorArchivos.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\ialmacenadorarchivos.cs
+++IQueryableExtensions.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\iqueryableextensions.cs
+++TypeBinder.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\utilidades\typebinder.cs
+++Validaciones
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\validaciones\
+++ApplicationDbContext.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\applicationdbcontext.cs
+++appsettings.json
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\appsettings.json
+++Program.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\program.cs
+++Startup.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\startup.cs
+++No se detectaron dependencias de servicio
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>636
+++Analizadores
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:analizadores
+++Marcos de trabajo
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:marcos de trabajo
+++Paquetes
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:paquetes
+++launchSettings.json
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\properties\launchsettings.json
+++actores
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\
+++peliculas
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\peliculas\
+++BehaviorBadRequests.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\apibehavior\behaviorbadrequests.cs
+++Actor.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\actor.cs
+++Cine.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\cine.cs
+++Genero.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\genero.cs
+++Pelicula.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\pelicula.cs
+++PeliculasActores.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\peliculasactores.cs
+++PeliculasCines.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\peliculascines.cs
+++PeliculasGeneros.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\entidades\peliculasgeneros.cs
+++20220124202531_Cines.Designer.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\20220124202531_cines.designer.cs
+++20220131163359_Peliculas.Designer.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\20220131163359_peliculas.designer.cs
+++20220209183929_SistemaDeUsuarios.Designer.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\migrations\20220209183929_sistemadeusuarios.designer.cs
+++PrimeraLetraMayusculaAttribute.cs
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\validaciones\primeraletramayusculaattribute.cs
+++appsettings.Development.json
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\users\carlo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>657
+++Azure.Storage.Blobs (12.10.0)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>661
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.1)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>662
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>660
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>656
+++Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite (6.0.1)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>654
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>663
+++Microsoft.Extensions.Logging.Abstractions (6.0.0)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>655
+++Newtonsoft.Json (13.0.1)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>659
+++Swashbuckle.AspNetCore (6.2.3)
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:>658
+++04b5bbcd-c6e6-46f0-bc86-38d44ab454fb.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\04b5bbcd-c6e6-46f0-bc86-38d44ab454fb.jpg
+++2bbf619e-46f7-4257-9606-c7e8448ca846.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\2bbf619e-46f7-4257-9606-c7e8448ca846.jpg
+++337a97f9-fd7e-41fa-8ea7-a1f99c34f9cc.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\337a97f9-fd7e-41fa-8ea7-a1f99c34f9cc.jpg
+++627c8fa4-310b-46f7-93db-3c88aa1d7ce0.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\627c8fa4-310b-46f7-93db-3c88aa1d7ce0.jpg
+++6ae14cab-d3a2-4f9b-bc1c-5353dbbd9ccd.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\6ae14cab-d3a2-4f9b-bc1c-5353dbbd9ccd.jpg
+++6dcda363-f910-41ef-835d-cc94cc6c1a72.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\6dcda363-f910-41ef-835d-cc94cc6c1a72.jpg
+++8c6ad0d5-d7f2-469a-9f86-b48899658705.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\8c6ad0d5-d7f2-469a-9f86-b48899658705.jpg
+++8dca0be2-8bf1-438f-983a-edb102ae2fc0.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\8dca0be2-8bf1-438f-983a-edb102ae2fc0.jpg
+++93d46d85-e1a5-4792-978e-5b826b2791e7.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\93d46d85-e1a5-4792-978e-5b826b2791e7.jpg
+++97a34378-c8c9-46c1-b3b7-bf28fcebb948.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\97a34378-c8c9-46c1-b3b7-bf28fcebb948.jpg
+++b0a7d9a8-962e-4ea3-879c-a2d63323bb70.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\b0a7d9a8-962e-4ea3-879c-a2d63323bb70.jpg
+++d31104cb-2093-4174-af92-3bca91204bbf.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\d31104cb-2093-4174-af92-3bca91204bbf.jpg
+++e2accc5b-738d-4ba3-b719-dc62f949ba6e.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\e2accc5b-738d-4ba3-b719-dc62f949ba6e.jpg
+++e58d8a2e-2e67-495a-a532-6a86aa6bd600.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\e58d8a2e-2e67-495a-a532-6a86aa6bd600.jpg
+++eb58da54-7aea-4d19-b09b-6ff1dcdb4e5f.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\actores\eb58da54-7aea-4d19-b09b-6ff1dcdb4e5f.jpg
+++18bc03dc-81c6-4935-84fb-baa2156785c9.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\peliculas\18bc03dc-81c6-4935-84fb-baa2156785c9.jpg
+++784b0103-a694-4f4e-b508-9a7068220c0e.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\peliculas\784b0103-a694-4f4e-b508-9a7068220c0e.jpg
+++96d68ac6-a70d-404c-ae09-9ad09b6569b1.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\peliculas\96d68ac6-a70d-404c-ae09-9ad09b6569b1.jpg
+++b76040ba-df2c-4d49-be20-77a1824ea942.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\peliculas\b76040ba-df2c-4d49-be20-77a1824ea942.jpg
+++f63efe36-0017-482e-b58c-6e3a7488e81c.jpg
+i:{19f8550f-1d1a-4750-8f31-e182397c2325}:c:\reactjs\udemy\netcore\peliculasapi\peliculasapi\wwwroot\peliculas\f63efe36-0017-482e-b58c-6e3a7488e81c.jpg
